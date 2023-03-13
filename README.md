@@ -82,7 +82,7 @@ threshold,total_num,correct_num,accuracy,deep_call,use_deep
 - "deep_call": the number of samples classified by the expensive model
 - "use_deep": the number of samples for which the cascade system finally used the classification result of the expensive model
 
-
+P.S. If you see 'TSP' in the code, please ignore it. It was early name of our research project.
 ## <a name="4"></a>**4. (optional) Retraining the weights of the estimator**
 
 In the previous section, we used pre-trained estimator weights. You can also train the estimator weights yourself. If you want to train on CIFAR100, please use `./SmartCascade_train_tabnet_cifar100.ipynb`. If you want to train on ImageNet, please use `./SmartCascade_train_tabnet_ImageNet.ipynb`. You can set the corresponding hyperparameters at the top of the ipynb file.
