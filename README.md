@@ -1,9 +1,13 @@
 # **Smart Cascades: An Innovative Framework for Cascading Classifiers with Comparison-driven Confidence Calibration**
 ## **Summary**
 [1. Requirements](#1)
+
 [2. Download weights and dataset](#2)
+
 [3. Obtaining the performance of the cascade system on CIFAR-100-test and ImageNet-val](#3)
+
 [4. (optional) Retraining the weights of the estimator](#4)
+
 ## <a name="1"></a>**1. Requirements**
 
 
