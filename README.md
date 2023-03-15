@@ -12,8 +12,8 @@
 
 
 ### System Requirements
-- Python 3.9
-- Operating System: Ubuntu or Windows 10
+- Python 3.8 or 3.9
+- Operating System: Ubuntu 18.04 or Windows 10
 - GPU memory: 8GB or higher
 - Disk space: 30GB or higher
 
